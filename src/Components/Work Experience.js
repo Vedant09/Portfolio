@@ -9,7 +9,7 @@ export default function WorkExp(){
     function SchoolIcon(){
         return(
         <div className='SchoolIcon'>
-            <img  src={school} alt='d'></img>
+            <img className='school-image' src={school} alt='d'></img>
         </div>
         )
     }

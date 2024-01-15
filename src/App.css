@@ -354,11 +354,23 @@
   padding: 5px;
   width: auto;
 }
+@media (max-width: 768px) {
+  .school-image {
+    height: auto; /* Let the height adjust automatically for smaller screens */
+    max-width: 100%; /* Ensure the image doesn't overflow its container */
+  }
+}
 .workIcon{
   padding: 6px;
 }
 .work-image{
   height: 45px;
+}
+@media (max-width: 768px) {
+  .work-image {
+    height: auto; /* Let the height adjust automatically for smaller screens */
+    max-width: 100%; /* Ensure the image doesn't overflow its container */
+  }
 }
 .vertical-timeline-element-date{
   color: #333;
