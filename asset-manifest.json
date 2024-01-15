@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.b27e9e0a.css",
+    "main.js": "/Portfolio/static/js/main.ca3c4256.js",
+    "static/media/Profile.jpg": "/Portfolio/static/media/Profile.b6acbf8b088ca46a72d5.jpg",
+    "static/media/vectorent.png": "/Portfolio/static/media/vectorent.c2a7dc983ddc59302ce0.png",
+    "static/media/c2c.png": "/Portfolio/static/media/c2c.1bbf358b1a27b3c37aa3.png",
+    "static/media/other-projects.png": "/Portfolio/static/media/other-projects.fc38b3588a8a333588e9.png",
+    "static/media/scm.png": "/Portfolio/static/media/scm.8b7cf9cf136404e20071.png",
+    "static/media/bias-mitigation.png": "/Portfolio/static/media/bias-mitigation.85576f99f52d57f3b2a0.png",
+    "static/media/VedantYelsangikar_Resume.pdf": "/Portfolio/static/media/VedantYelsangikar_Resume.be25e7c035835d9a46f7.pdf",
+    "static/media/Vedant.png": "/Portfolio/static/media/Vedant.ea592d5352b8be348427.png",
+    "index.html": "/Portfolio/index.html",
+    "main.b27e9e0a.css.map": "/Portfolio/static/css/main.b27e9e0a.css.map",
+    "main.ca3c4256.js.map": "/Portfolio/static/js/main.ca3c4256.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b27e9e0a.css",
+    "static/js/main.ca3c4256.js"
+  ]
+}
