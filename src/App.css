@@ -337,6 +337,14 @@
   flex-direction: column-reverse;
   line-height: 0.5;
 }
+@media (max-width: 768px) {
+  .section-title {
+    flex-direction: column; /* Change flex direction for smaller screens */
+    align-items: center; /* Center align items on smaller screens */
+    text-align: center; /* Center align text on smaller screens */
+    line-height: 1.2; /* Adjust line height for better readability on smaller screens */
+  }
+}
 .work-timeline{
   padding: 50px;
   background-color: blanchedalmond;
