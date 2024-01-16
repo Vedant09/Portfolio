@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.2380a217.css",
+    "main.css": "/Portfolio/static/css/main.6c42059e.css",
     "main.js": "/Portfolio/static/js/main.e76bb8bc.js",
     "static/media/Profile.jpg": "/Portfolio/static/media/Profile.b6acbf8b088ca46a72d5.jpg",
     "static/media/vectorent.png": "/Portfolio/static/media/vectorent.c2a7dc983ddc59302ce0.png",
@@ -11,11 +11,11 @@
     "static/media/VedantYelsangikar_Resume.pdf": "/Portfolio/static/media/VedantYelsangikar_Resume.be25e7c035835d9a46f7.pdf",
     "static/media/Vedant.png": "/Portfolio/static/media/Vedant.ea592d5352b8be348427.png",
     "index.html": "/Portfolio/index.html",
-    "main.2380a217.css.map": "/Portfolio/static/css/main.2380a217.css.map",
+    "main.6c42059e.css.map": "/Portfolio/static/css/main.6c42059e.css.map",
     "main.e76bb8bc.js.map": "/Portfolio/static/js/main.e76bb8bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.2380a217.css",
+    "static/css/main.6c42059e.css",
     "static/js/main.e76bb8bc.js"
   ]
 }
