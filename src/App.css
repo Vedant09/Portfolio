@@ -39,7 +39,12 @@
   z-index: 1000;
   width:100%;
 }
-
+@media screen and (max-width: 768px) {
+  .navbar {
+    /* Adjust styles for smaller screens */
+    position: static; /* Remove fixed positioning */
+  }
+}
 .navbar a {
   float: left;
   display: block;
