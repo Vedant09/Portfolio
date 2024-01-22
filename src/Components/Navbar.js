@@ -7,7 +7,7 @@ export default function Navbar(){
         <Link to="home" smooth={true} duration={500}>Introduction</Link>
         <Link to="projects" smooth={true} duration={500}>Projects</Link>
         <Link to="skills" smooth={true} duration={500}>Skills</Link>
-        <Link to="workexp" smooth={true} duration={500}>Work Experience</Link>
+        <Link to="workexp" smooth={true} duration={500}>My Experience</Link>
     </div>
     )
 }

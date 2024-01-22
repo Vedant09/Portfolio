@@ -23,7 +23,7 @@ export default function WorkExp(){
     return(
         <div className='work-timeline' id='workexp'>
             <SectionTitle
-                header = 'WORK EXPERIENCE.'
+                header = 'MY EXPERIENCE.'
                 sub_header = 'JOURNEY SO FAR -'
             />
             <VerticalTimeline>
