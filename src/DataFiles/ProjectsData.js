@@ -18,7 +18,7 @@ export default [
         id : 2,
         img : C2C,
         type : "C2C",
-        link : "http://34.235.118.212:8000",
+        link : "http://3.80.79.78:8000/",
         city : "Python, ReactJs, Ansible",
     },
     {
