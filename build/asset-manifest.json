@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.6c42059e.css",
-    "main.js": "/Portfolio/static/js/main.505691cf.js",
+    "main.js": "/Portfolio/static/js/main.4ed02345.js",
     "static/media/Profile.jpg": "/Portfolio/static/media/Profile.b6acbf8b088ca46a72d5.jpg",
     "static/media/vectorent.png": "/Portfolio/static/media/vectorent.c2a7dc983ddc59302ce0.png",
     "static/media/c2c.png": "/Portfolio/static/media/c2c.1bbf358b1a27b3c37aa3.png",
     "static/media/other-projects.png": "/Portfolio/static/media/other-projects.fc38b3588a8a333588e9.png",
     "static/media/scm.png": "/Portfolio/static/media/scm.8b7cf9cf136404e20071.png",
     "static/media/bias-mitigation.png": "/Portfolio/static/media/bias-mitigation.85576f99f52d57f3b2a0.png",
-    "static/media/VedantYelsangikar_Resume.pdf": "/Portfolio/static/media/VedantYelsangikar_Resume.be25e7c035835d9a46f7.pdf",
+    "static/media/Vedant_FS_Resume.pdf": "/Portfolio/static/media/Vedant_FS_Resume.6c210854e13585d0727d.pdf",
     "static/media/Vedant.png": "/Portfolio/static/media/Vedant.ea592d5352b8be348427.png",
     "index.html": "/Portfolio/index.html",
     "main.6c42059e.css.map": "/Portfolio/static/css/main.6c42059e.css.map",
-    "main.505691cf.js.map": "/Portfolio/static/js/main.505691cf.js.map"
+    "main.4ed02345.js.map": "/Portfolio/static/js/main.4ed02345.js.map"
   },
   "entrypoints": [
     "static/css/main.6c42059e.css",
-    "static/js/main.505691cf.js"
+    "static/js/main.4ed02345.js"
   ]
 }
