@@ -33,6 +33,7 @@ export default [
             "Oracle SQL Developer",
             "MySql",
             "MongoDB",
+            "Sequelize-ORM"
         ]
     },
     {
