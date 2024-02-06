@@ -41,7 +41,7 @@ export default [
         name : "Devops",
         skills: [
             "Git-Version Control",
-            "Jenkis",
+            "Jenkins",
             "Ansible",
             "Docker",
             "AWS"
