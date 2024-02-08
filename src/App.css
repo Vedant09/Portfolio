@@ -51,6 +51,7 @@
   color: wheat;
   text-align: center;
   padding: 14px 16px;
+  cursor: pointer;
   text-decoration: none;
 }
 
@@ -416,6 +417,77 @@
   border-radius: 10px;
   text-align: center;
 }
+
+/* Contact me*/
+.contact-me-div{
+  padding: 50px;
+  background-color: blanchedalmond;
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 1);
+}
+.contact-form{
+  display: flex;
+  flex-direction: column;
+  margin-right: 25%;
+  margin-left: 25%;
+  margin-top : 50px;
+  row-gap: 20px;
+  padding: 20px 36px 20px 20px;
+  border-radius: 10px;
+  justify-content: space-evenly;
+  align-items: stretch;
+  background-color: #333;
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 1);
+
+  @media screen and (max-width: 768px) {
+    margin-right: 5%;
+    margin-left: 5%;
+    padding: 4vw 3.6vw 4vw 2vw;
+  }
+}
+
+.text-input{
+ width: 75%;   
+ height: 50px;
+ border-radius: 10px;
+ background-color: blanchedalmond;
+ border: 1px solid ;
+
+ @media screen and (max-width: 768px) {
+  width: 90%;
+}
+}
+
+.text-input-area{
+  width: 90%;   
+  height: 150px;
+  border-radius: 10px;
+  background-color: blanchedalmond;
+  border: 2px solid;
+
+  @media screen and (max-width: 768px) {
+    width: 90%;
+  }
+ }
+
+ .form-submit{
+  height: 50px;  
+  border-radius: 10px;
+  border: 1px solid;
+  margin-left: 10%;
+  margin-right: 10%;
+  cursor: pointer;
+ }
+
+ .contact-phone-email-div{
+  padding: 20px 1px 1px 1px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  align-content: center;
+  column-gap: 40px;
+  flex-wrap: wrap;
+  flex-direction: row;
+ }
 /*footer*/
 .footer {
   background-color: #333;
