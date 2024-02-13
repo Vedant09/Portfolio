@@ -430,7 +430,7 @@
   margin-right: 25%;
   margin-left: 25%;
   margin-top : 50px;
-  row-gap: 20px;
+  row-gap: 5px;
   padding: 20px 36px 20px 20px;
   border-radius: 10px;
   justify-content: space-evenly;
@@ -450,7 +450,7 @@
  height: 50px;
  border-radius: 10px;
  background-color: blanchedalmond;
- border: 1px solid ;
+ border:1px solid ;
 
  @media screen and (max-width: 768px) {
   width: 90%;
@@ -462,7 +462,7 @@
   height: 150px;
   border-radius: 10px;
   background-color: blanchedalmond;
-  border: 2px solid;
+  border: 1px solid;
 
   @media screen and (max-width: 768px) {
     width: 90%;
