@@ -20,7 +20,7 @@ export default [
         skills: [
             "Java",
             "Servlets",
-            "Spring framework",
+            "Spring Framework",
             "Python Flask",
             "Swagger API",
             "Node.js"
@@ -28,12 +28,13 @@ export default [
     },
     {
         id : 3,
-        name : "Database",
+        name : "Databases",
         skills: [
-            "Oracle SQL Developer",
+            "Oracle Database",
             "MySql",
             "MongoDB",
-            "Sequelize-ORM"
+            "Sequelize-ORM",
+            "JDBC"
         ]
     },
     {
@@ -44,7 +45,7 @@ export default [
             "Jenkins",
             "Ansible",
             "Docker",
-            "AWS"
+            "Amazon Web Service"
         ] 
     },
     // {
