@@ -33,6 +33,7 @@ export default [
             "Oracle Database",
             "MySql",
             "MongoDB",
+            "PostgreSQL",
             "Sequelize-ORM",
             "JDBC"
         ]
@@ -45,7 +46,7 @@ export default [
             "Jenkins",
             "Ansible",
             "Docker",
-            "Amazon Web Service"
+            "Amazon Web Services"
         ] 
     },
     // {

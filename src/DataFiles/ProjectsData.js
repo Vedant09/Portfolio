@@ -4,6 +4,7 @@ import Bias from '../Images/bias-mitigation.png'
 import SCM from '../Images/scm.png'
 import More from '../Images/other-projects.png'
 import Vedant from '../Images/Vedant.png'
+import Mhhr from '../Images/mhhr.png'
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default [    
@@ -33,7 +34,7 @@ export default [
         img : SCM,
         type : "SCM Blockchain",
         link : "https://github.com/Vedant09/Pharmaceuticals-SCM-BlockChain",
-        city : "Web3Js, ReactJs, Ts, Flutter",
+        city : "Web3Js, ReactJs, Flutter",
     },{
         id : 5,
         img : Vedant,
@@ -42,7 +43,13 @@ export default [
         city : "ReactJs",
     },
     {
-        id : 5,
+        id : 6,
+        img : Mhhr,
+        type : "MHHR Properties",
+        link : "https://mhhrproperties.com/",
+        city : "ReactJs, NodeJs, PostgreSQL",
+    },{
+        id : 7,
         img : More,
         type : "Other Projects",
         link : "https://github.com/Vedant09?tab=repositories",

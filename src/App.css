@@ -315,13 +315,13 @@
 .card-div {
   display: flex;
   flex-wrap:  wrap;
-  row-gap: 20px;
-  padding: 20px 36px 20px 20px;
-  gap: 90px;
+  row-gap: 40px;
+  padding: 20px 5px 20px 5px;
+  /* gap: 90px; */
   align-items: stretch;
   border-radius: 10px;
   color: #000;
-  justify-content: space-evenly;
+  justify-content: space-around;
   align-items: stretch;
 }
 .cards-each:hover {
