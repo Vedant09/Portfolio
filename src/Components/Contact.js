@@ -71,10 +71,6 @@ export default function Contact() {
                 sub_header='GET IN TOUCH'
             />
             <ContactForm />
-            <div className='contact-phone-email-div'>
-                <p>Phone Number : +1(571)-591-8877</p><br />
-                <p>E-mail : vyelsang@gmu.edu</p>
-            </div>
         </div>
     )
 }
