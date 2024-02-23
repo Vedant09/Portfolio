@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.eb6be798.css",
-    "main.js": "/Portfolio/static/js/main.40199cf7.js",
+    "main.js": "/Portfolio/static/js/main.e8e6a509.js",
     "static/media/Profile.jpg": "/Portfolio/static/media/Profile.b6acbf8b088ca46a72d5.jpg",
     "static/media/vectorent.jpg": "/Portfolio/static/media/vectorent.8b694a8102cc00424b9e.jpg",
     "static/media/Vedant_FS_Resume.pdf": "/Portfolio/static/media/Vedant_FS_Resume.5d494ae192dfb546294e.pdf",
@@ -13,10 +13,10 @@
     "static/media/mhhr.jpg": "/Portfolio/static/media/mhhr.dd2db942f0542173dad3.jpg",
     "index.html": "/Portfolio/index.html",
     "main.eb6be798.css.map": "/Portfolio/static/css/main.eb6be798.css.map",
-    "main.40199cf7.js.map": "/Portfolio/static/js/main.40199cf7.js.map"
+    "main.e8e6a509.js.map": "/Portfolio/static/js/main.e8e6a509.js.map"
   },
   "entrypoints": [
     "static/css/main.eb6be798.css",
-    "static/js/main.40199cf7.js"
+    "static/js/main.e8e6a509.js"
   ]
 }

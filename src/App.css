@@ -323,6 +323,7 @@
   color: #000;
   justify-content: space-around;
   align-items: stretch;
+  cursor: pointer;;
 }
 .cards-each:hover {
   transform: scale(1.1);
