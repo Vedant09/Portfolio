@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.eb6be798.css",
-    "main.js": "/Portfolio/static/js/main.c1f5a9ca.js",
+    "main.js": "/Portfolio/static/js/main.40199cf7.js",
     "static/media/Profile.jpg": "/Portfolio/static/media/Profile.b6acbf8b088ca46a72d5.jpg",
-    "static/media/vectorent.png": "/Portfolio/static/media/vectorent.c2a7dc983ddc59302ce0.png",
-    "static/media/c2c.png": "/Portfolio/static/media/c2c.1bbf358b1a27b3c37aa3.png",
-    "static/media/other-projects.png": "/Portfolio/static/media/other-projects.fc38b3588a8a333588e9.png",
-    "static/media/scm.png": "/Portfolio/static/media/scm.8b7cf9cf136404e20071.png",
-    "static/media/mhhr.png": "/Portfolio/static/media/mhhr.8e13d676bf92a97f7cab.png",
-    "static/media/bias-mitigation.png": "/Portfolio/static/media/bias-mitigation.85576f99f52d57f3b2a0.png",
+    "static/media/vectorent.jpg": "/Portfolio/static/media/vectorent.8b694a8102cc00424b9e.jpg",
     "static/media/Vedant_FS_Resume.pdf": "/Portfolio/static/media/Vedant_FS_Resume.5d494ae192dfb546294e.pdf",
-    "static/media/Vedant.png": "/Portfolio/static/media/Vedant.ea592d5352b8be348427.png",
+    "static/media/other-projects.jpg": "/Portfolio/static/media/other-projects.1c3abc70591e6158dec8.jpg",
+    "static/media/c2c.jpg": "/Portfolio/static/media/c2c.27ee5cafc78bd25a9b3a.jpg",
+    "static/media/scm.jpg": "/Portfolio/static/media/scm.d897f311836bbfc0d2ff.jpg",
+    "static/media/Vedant.jpg": "/Portfolio/static/media/Vedant.2850e3c86fee1d09d1ca.jpg",
+    "static/media/bias-mitigation.jpg": "/Portfolio/static/media/bias-mitigation.f5a3ecdd4ea2b1c42f00.jpg",
+    "static/media/mhhr.jpg": "/Portfolio/static/media/mhhr.dd2db942f0542173dad3.jpg",
     "index.html": "/Portfolio/index.html",
     "main.eb6be798.css.map": "/Portfolio/static/css/main.eb6be798.css.map",
-    "main.c1f5a9ca.js.map": "/Portfolio/static/js/main.c1f5a9ca.js.map"
+    "main.40199cf7.js.map": "/Portfolio/static/js/main.40199cf7.js.map"
   },
   "entrypoints": [
     "static/css/main.eb6be798.css",
-    "static/js/main.c1f5a9ca.js"
+    "static/js/main.40199cf7.js"
   ]
 }
