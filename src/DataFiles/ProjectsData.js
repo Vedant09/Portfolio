@@ -18,7 +18,7 @@ export default [
   {
     id: 2,
     img: C2C,
-    type: "C2C",
+    type: "Rapid Cloudify",
     link: "http://rapidcloudify.com/",
     city: "Python, ReactJs, Ansible",
   },
