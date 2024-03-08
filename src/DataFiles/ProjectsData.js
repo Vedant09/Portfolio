@@ -11,7 +11,7 @@ export default [
   {
     id: 1,
     img: Bias,
-    type: "Bias Mitigations",
+    type: "Bias Mitigation",
     link: "https://github.com/Vedant09/Mitigation-in-COMPAS-Algorithm",
     city: "Python",
   },
