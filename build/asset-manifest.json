@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.d4351d8e.css",
-    "main.js": "/Portfolio/static/js/main.bda5fbfe.js",
+    "main.js": "/Portfolio/static/js/main.859035ef.js",
     "static/media/Profile.jpg": "/Portfolio/static/media/Profile.b6acbf8b088ca46a72d5.jpg",
     "static/media/vectorent.jpg": "/Portfolio/static/media/vectorent.8b694a8102cc00424b9e.jpg",
-    "static/media/Vedant_FS_Resume.pdf": "/Portfolio/static/media/Vedant_FS_Resume.7f926f4715c294ad5d63.pdf",
     "static/media/other-projects.jpg": "/Portfolio/static/media/other-projects.1c3abc70591e6158dec8.jpg",
+    "static/media/Vedant_Yelsangikar_FS_Resume.pdf": "/Portfolio/static/media/Vedant_Yelsangikar_FS_Resume.435b2451240897bb96bc.pdf",
     "static/media/c2c.jpg": "/Portfolio/static/media/c2c.27ee5cafc78bd25a9b3a.jpg",
     "static/media/scm.jpg": "/Portfolio/static/media/scm.d897f311836bbfc0d2ff.jpg",
     "static/media/Vedant.jpg": "/Portfolio/static/media/Vedant.2850e3c86fee1d09d1ca.jpg",
@@ -13,10 +13,10 @@
     "static/media/mhhr.jpg": "/Portfolio/static/media/mhhr.dd2db942f0542173dad3.jpg",
     "index.html": "/Portfolio/index.html",
     "main.d4351d8e.css.map": "/Portfolio/static/css/main.d4351d8e.css.map",
-    "main.bda5fbfe.js.map": "/Portfolio/static/js/main.bda5fbfe.js.map"
+    "main.859035ef.js.map": "/Portfolio/static/js/main.859035ef.js.map"
   },
   "entrypoints": [
     "static/css/main.d4351d8e.css",
-    "static/js/main.bda5fbfe.js"
+    "static/js/main.859035ef.js"
   ]
 }
