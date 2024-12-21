@@ -27,6 +27,40 @@ export default function WorkExp() {
     <div className="work-timeline" id="workexp">
       <SectionTitle header="MY EXPERIENCE." sub_header="JOURNEY SO FAR -" />
       <VerticalTimeline>
+      <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          date="Jan 2021 - Jul 2022"
+          
+          iconStyle={{ background: "rgb(169, 169, 169)", color: "#fff" }}
+          icon={<WorkIcon />}
+        >
+          <h3 className="vertical-timeline-element-title">
+            Full Stack Developer.
+          </h3>
+          <h4 className="vertical-timeline-element-subtitle">
+            Fifth Third Bank, (Contractor, SLK America)
+          </h4>
+          <p>
+            Lead the design and development of user-centric features using Angular and Kotlin, ensuring seamless performance and accessibility across diverse user bases. I create and maintain custom APIs for CRUD operations with Kotlin and Spring Boot, ensuring scalability and seamless integration with front-end systems. 
+            Additionally, I manage Kafka clusters and configure topics for efficient, reliable message delivery across applications and teams.
+          </p>
+        </VerticalTimelineElement>
+        <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          date="Jul 2019 - Aug 2019"
+          iconStyle={{ background: "rgb(169, 169, 169)", color: "#fff" }}
+          contentStyle={{ background: "rgb(51, 51, 51)", color: "#fff" }}
+          contentArrowStyle={{ borderRight: "7px solid  #333" }}
+          icon={<WorkIcon />}
+        >
+          <h3 className="vertical-timeline-element-title">Automation Intern.</h3>
+          <h4 className="vertical-timeline-element-subtitle">
+            Spirent Technologies, India
+          </h4>
+          <p>
+            Designed and implemented 5G and 4G LTE network automation testbeds, emulating components and configurations for comprehensive end-to-end testing Using Python and Tcl scripts.
+          </p>
+        </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
           contentArrowStyle={{ borderRight: "7px solid  #333" }}
