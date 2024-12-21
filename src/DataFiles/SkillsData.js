@@ -6,7 +6,9 @@ export default [
         id: 1,
         name: "Frontend",
         skills: [
+            "Angular",
             "JavaScript",
+            "TypeScript",
             "JSP",
             "React.js",
             "HTML5  CSS3",
@@ -19,6 +21,7 @@ export default [
         name : "Backend",
         skills: [
             "Java",
+            "Kotlin",
             "Servlets",
             "Spring Framework",
             "Python Flask",
@@ -31,6 +34,7 @@ export default [
         name : "Databases",
         skills: [
             "Oracle Database",
+            "DB2",
             "MySql",
             "MongoDB",
             "PostgreSQL",
@@ -42,6 +46,7 @@ export default [
         id : 4,
         name : "Devops",
         skills: [
+            "Apache Kafka",
             "Git-Version Control",
             "Jenkins",
             "Ansible",
