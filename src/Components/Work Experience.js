@@ -30,7 +30,7 @@ export default function WorkExp() {
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
           contentArrowStyle={{ borderRight: "7px solid  #333" }}
-          date="Aug 2022 - Present"
+          date="Aug 2022 - May 2024"
           iconStyle={{ background: "rgb(169, 169, 169)", color: "#fff" }}
           icon={<SchoolIcon />}
         >
