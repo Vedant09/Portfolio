@@ -69,7 +69,7 @@ export default function WorkExp() {
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Master of Science in Computer Science and Engineering
+            Master of Science in Computer Science and Engineering.
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
             Master's Degree
@@ -85,7 +85,7 @@ export default function WorkExp() {
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Application Developer
+            Application Developer.
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
             Accenture Technologies, India
@@ -121,7 +121,7 @@ export default function WorkExp() {
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Engineering Trainee
+            Engineering Trainee.
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
             Utthunga LLC - Engineering Services & Industrial Solutions, India
@@ -136,7 +136,7 @@ export default function WorkExp() {
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Bachelor of Science in Computer Science and Engineering
+            Bachelor of Science in Computer Science and Engineering.
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
             Bachelor's Degree
