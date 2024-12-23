@@ -4,7 +4,7 @@ import githubLogo from "../Images/github-logo.png";
 import linkedinLogo from "../Images/linkedin-logo.png";
 import twitterLogo from "../Images/twitter-logo.png";
 import emailIcon from "../Images/email-logo.png";
-import Resume from "../Components/Vedant_Yelsangikar_FS_Resume.pdf";
+import Resume from "../Components/Vedant_Yelsangikar_Profile.pdf";
 
 export default function Profile() {
   const myName = "Vedant Yelsangikar";
