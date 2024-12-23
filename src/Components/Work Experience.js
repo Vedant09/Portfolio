@@ -103,7 +103,7 @@ export default function WorkExp() {
           contentArrowStyle={{ borderRight: "7px solid  #333" }}
           icon={<WorkIcon />}
         >
-          <h3 className="vertical-timeline-element-title">Software Intern</h3>
+          <h3 className="vertical-timeline-element-title">Software Intern.</h3>
           <h4 className="vertical-timeline-element-subtitle">
             Center for Development of Telematics, India
           </h4>
