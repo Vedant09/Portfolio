@@ -38,7 +38,7 @@ export default function WorkExp() {
             Full Stack Developer.
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
-            Fifth Third Bank, (Contractor, SLK America)
+            Fifth Third Bancorp, (Contract, SLK America)
           </h4>
           <p>
             Lead the design and development of user-centric features using Angular and Kotlin, ensuring seamless performance and accessibility across diverse user bases. I create and maintain custom APIs for CRUD operations with Kotlin and Spring Boot, ensuring scalability and seamless integration with front-end systems. 

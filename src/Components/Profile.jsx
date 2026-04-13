@@ -1,10 +1,10 @@
 import React from "react";
-import ProfilePicture from "../Images/Profile.jpg";
+import ProfilePicture from "../Images/Profile.jpeg";
 import githubLogo from "../Images/github-logo.png";
 import linkedinLogo from "../Images/linkedin-logo.png";
 import twitterLogo from "../Images/twitter-logo.png";
 import emailIcon from "../Images/email-logo.png";
-import Resume from "../Components/Vedant_Yelsangikar_Profile.pdf";
+import Resume from "../Components/Vedant_Yelsangikar_resume.pdf";
 
 export default function Profile() {
   const myName = "Vedant Yelsangikar";

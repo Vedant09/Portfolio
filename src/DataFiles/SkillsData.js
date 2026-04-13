@@ -54,14 +54,16 @@ export default [
             "Amazon Web Services"
         ] 
     },
-    // {
-    //     id : 5,
-    //     name : "System Design",
-    //     skills: [
-    //         "High Level Design",
-    //         "Low level Design",
-    //         "Distributed systems"
-    //     ]
-    // }
+    {
+        id : 5,
+        name : "AI",
+        skills: [
+            "LangChain",
+            "Spring AI",
+            "LLM Integration",
+            "AI-powered REST API Design",
+            "AI Tools..."
+        ]
+    }
 
 ]

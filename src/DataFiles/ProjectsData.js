@@ -5,7 +5,7 @@ import SCM from "../Images/scm.jpg";
 import More from "../Images/other-projects.jpg";
 import Vedant from "../Images/Vedant.jpg";
 import Mhhr from "../Images/mhhr.jpg";
-
+import movies from "../Images/movies.jpeg"
 // eslint-disable-next-line import/no-anonymous-default-export
 export default [
   {
@@ -19,7 +19,7 @@ export default [
     id: 2,
     img: C2C,
     type: "Rapid Cloudify",
-    link: "http://rapidcloudify.com/",
+    link: "https://www.linkedin.com/in/rapid-cloudify-443baa323/",
     city: "Python, ReactJs, Ansible",
   },
   {
@@ -52,6 +52,13 @@ export default [
   },
   {
     id: 7,
+    img: movies,
+    type: "RT Movies",
+    link: "https://github.com/Vedant09/Mo-vies",
+    city: "ReactJs, AI, Real Time API",
+  },
+  {
+    id: 8,
     img: More,
     type: "Other Projects",
     link: "https://github.com/Vedant09?tab=repositories",
