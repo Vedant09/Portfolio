@@ -54,7 +54,7 @@ export default [
     id: 7,
     img: movies,
     type: "RT Movies",
-    link: "https://github.com/Vedant09/Mo-vies",
+    link: "https://vedant09.github.io/Mo-vies/",
     city: "ReactJs, AI, Real Time API",
   },
   {
