@@ -10,6 +10,9 @@ export default function Navbar() {
       <Link to="projects" smooth={true} duration={500}>
         Projects
       </Link>
+      <Link to="game" smooth={true} duration={500}>
+        Play
+      </Link>
       <Link to="skills" smooth={true} duration={500}>
         Skills
       </Link>

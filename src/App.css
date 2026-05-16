@@ -383,6 +383,65 @@
   color: #333;
 }
 
+/* game section */
+.game-section {
+  padding: 50px;
+  background-color: #1a1a1a;
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 1);
+}
+.game-section .section-title h1,
+.game-section .section-title p {
+  color: blanchedalmond;
+}
+.game-card-wrapper {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  cursor: pointer;
+}
+.game-card-inner {
+  background-color: #fff;
+  border-radius: 16px;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.5);
+  padding: 40px 60px;
+  text-align: center;
+  transition: transform 0.2s, box-shadow 0.2s;
+  max-width: 340px;
+  width: 100%;
+}
+.game-card-inner:hover {
+  transform: scale(1.05);
+  box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.7);
+}
+.game-spade {
+  font-size: 120px;
+  line-height: 1;
+  color: #000;
+  margin-bottom: 16px;
+  user-select: none;
+}
+.game-title {
+  font-size: 22px;
+  font-weight: 900;
+  margin: 8px 0 6px;
+  color: #111;
+}
+.game-subtitle {
+  font-size: 14px;
+  color: #555;
+  margin-bottom: 20px;
+}
+.game-play-btn {
+  display: inline-block;
+  background-color: #000;
+  color: blanchedalmond;
+  padding: 10px 28px;
+  border-radius: 999px;
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 0.05em;
+}
+
 /* skills*/
 .skills-section{
   padding: 50px;
