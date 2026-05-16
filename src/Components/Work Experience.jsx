@@ -29,7 +29,7 @@ export default function WorkExp() {
       <VerticalTimeline>
       <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="Jan 2021 - Jul 2022"
+          date="Aug 2024 - Present"
           
           iconStyle={{ background: "rgb(169, 169, 169)", color: "#fff" }}
           icon={<WorkIcon />}
@@ -47,7 +47,7 @@ export default function WorkExp() {
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="Jul 2019 - Aug 2019"
+          date="May 2024 - Aug 2024"
           iconStyle={{ background: "rgb(169, 169, 169)", color: "#fff" }}
           contentStyle={{ background: "rgb(51, 51, 51)", color: "#fff" }}
           contentArrowStyle={{ borderRight: "7px solid  #333" }}
@@ -55,7 +55,7 @@ export default function WorkExp() {
         >
           <h3 className="vertical-timeline-element-title">Automation Intern.</h3>
           <h4 className="vertical-timeline-element-subtitle">
-            Spirent Technologies, India
+            Spirent Technologies, USA
           </h4>
           <p>
             Designed and implemented 5G and 4G LTE network automation testbeds, emulating components and configurations for comprehensive end-to-end testing Using Python and Tcl scripts.
