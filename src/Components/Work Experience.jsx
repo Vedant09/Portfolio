@@ -41,8 +41,7 @@ export default function WorkExp() {
             Fifth Third Bancorp, (Contract, SLK America)
           </h4>
           <p>
-            Lead the design and development of user-centric features using Angular and Kotlin, ensuring seamless performance and accessibility across diverse user bases. I create and maintain custom APIs for CRUD operations with Kotlin and Spring Boot, ensuring scalability and seamless integration with front-end systems. 
-            Additionally, I manage Kafka clusters and configure topics for efficient, reliable message delivery across applications and teams.
+            I lead the design and development of user centric features across Angular and Kotlin, with a strong focus on seamless performance and accessibility for diverse user bases. On the backend, I architect and maintain custom RESTful APIs built with Kotlin and Spring Boot, delivering scalable CRUD operations and reliable integration with frontend systems. I also manage Kafka clusters end-to-end from configuration to topic management ensuring efficient, fault tolerant message delivery across distributed applications and cross-functional teams.
           </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement

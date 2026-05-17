@@ -393,11 +393,12 @@
 .game-section .section-title p {
   color: blanchedalmond;
 }
-.game-card-wrapper {
+.game-cards-row {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
+  gap: 40px;
   padding: 20px;
-  cursor: pointer;
 }
 .game-card-inner {
   background-color: #fff;
