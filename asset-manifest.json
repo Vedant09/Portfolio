@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.60801712.css",
-    "main.js": "/Portfolio/static/js/main.3c81ddbd.js",
+    "main.css": "/Portfolio/static/css/main.2fe4cc3f.css",
+    "main.js": "/Portfolio/static/js/main.99cfc0a6.js",
     "static/media/Profile.jpeg": "/Portfolio/static/media/Profile.599b61f019d4db9d33e5.jpeg",
     "static/media/Vedant_Yelsangikar_resume.pdf": "/Portfolio/static/media/Vedant_Yelsangikar_resume.73b1569bf50b6d086b6e.pdf",
     "static/media/vectorent.jpg": "/Portfolio/static/media/vectorent.8b694a8102cc00424b9e.jpg",
@@ -12,11 +12,11 @@
     "static/media/bias-mitigation.jpg": "/Portfolio/static/media/bias-mitigation.f5a3ecdd4ea2b1c42f00.jpg",
     "static/media/mhhr.jpg": "/Portfolio/static/media/mhhr.dd2db942f0542173dad3.jpg",
     "index.html": "/Portfolio/index.html",
-    "main.60801712.css.map": "/Portfolio/static/css/main.60801712.css.map",
-    "main.3c81ddbd.js.map": "/Portfolio/static/js/main.3c81ddbd.js.map"
+    "main.2fe4cc3f.css.map": "/Portfolio/static/css/main.2fe4cc3f.css.map",
+    "main.99cfc0a6.js.map": "/Portfolio/static/js/main.99cfc0a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.60801712.css",
-    "static/js/main.3c81ddbd.js"
+    "static/css/main.2fe4cc3f.css",
+    "static/js/main.99cfc0a6.js"
   ]
 }
