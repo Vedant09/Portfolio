@@ -7,7 +7,7 @@ const games = [
         symbolColor: '#000',
         title: 'Five Point Show',
         subtitle: 'A card game - think you can survive?',
-        link: 'https://five-point-show-production.up.railway.app/',
+        link: 'https://www.5pointshow.com/play',
     },
     {
         symbol: '♥',
